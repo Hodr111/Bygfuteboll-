@@ -1,0 +1,458 @@
+[
+  {
+    "flag": "🇧🇷",
+    "name": "Flamengo",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Corinthians",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Palmeiras",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "São Paulo",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Santos",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Vasco",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Botafogo",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Fluminense",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Grêmio",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Internacional",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Cruzeiro",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Atlético-MG",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Bahia",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Vitória",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Athletico-PR",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Coritiba",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Red Bull Bragantino",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Chapecoense",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Remo",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Mirassol",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Ceará",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Fortaleza",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Sport",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Goiás",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "América-MG",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Atlético-GO",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Cuiabá",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Juventude",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Ponte Preta",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Guarani",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Paysandu",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Santa Cruz",
+    "country": "Brasil",
+    "code": "BR"
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "River Plate",
+    "country": "Argentina",
+    "code": "AR"
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "Boca Juniors",
+    "country": "Argentina",
+    "code": "AR"
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "Racing Club",
+    "country": "Argentina",
+    "code": "AR"
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "Independiente",
+    "country": "Argentina",
+    "code": "AR"
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "San Lorenzo",
+    "country": "Argentina",
+    "code": "AR"
+  },
+  {
+    "flag": "🇺🇾",
+    "name": "Peñarol",
+    "country": "Uruguai",
+    "code": "UY"
+  },
+  {
+    "flag": "🇺🇾",
+    "name": "Nacional",
+    "country": "Uruguai",
+    "code": "UY"
+  },
+  {
+    "flag": "🇨🇴",
+    "name": "Atlético Nacional",
+    "country": "Colômbia",
+    "code": "CO"
+  },
+  {
+    "flag": "🇨🇴",
+    "name": "Millonarios",
+    "country": "Colômbia",
+    "code": "CO"
+  },
+  {
+    "flag": "🇨🇱",
+    "name": "Colo-Colo",
+    "country": "Chile",
+    "code": "CL"
+  },
+  {
+    "flag": "🇪🇨",
+    "name": "LDU Quito",
+    "country": "Equador",
+    "code": "EC"
+  },
+  {
+    "flag": "🇵🇾",
+    "name": "Olimpia",
+    "country": "Paraguai",
+    "code": "PY"
+  },
+  {
+    "flag": "🇵🇪",
+    "name": "Alianza Lima",
+    "country": "Peru",
+    "code": "PE"
+  },
+  {
+    "flag": "🇺🇸",
+    "name": "Inter Miami",
+    "country": "EUA",
+    "code": "US"
+  },
+  {
+    "flag": "🇺🇸",
+    "name": "LAFC",
+    "country": "EUA",
+    "code": "US"
+  },
+  {
+    "flag": "🇪🇸",
+    "name": "Real Madrid",
+    "country": "Espanha",
+    "code": "ES"
+  },
+  {
+    "flag": "🇪🇸",
+    "name": "Barcelona",
+    "country": "Espanha",
+    "code": "ES"
+  },
+  {
+    "flag": "🇪🇸",
+    "name": "Atlético de Madrid",
+    "country": "Espanha",
+    "code": "ES"
+  },
+  {
+    "flag": "🇪🇸",
+    "name": "Athletic Club",
+    "country": "Espanha",
+    "code": "ES"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Manchester City",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Liverpool",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Manchester United",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Arsenal",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Chelsea",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "Tottenham",
+    "country": "Inglaterra",
+    "code": "EN"
+  },
+  {
+    "flag": "🇩🇪",
+    "name": "Bayern Munich",
+    "country": "Alemanha",
+    "code": "DE"
+  },
+  {
+    "flag": "🇩🇪",
+    "name": "Borussia Dortmund",
+    "country": "Alemanha",
+    "code": "DE"
+  },
+  {
+    "flag": "🇩🇪",
+    "name": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "code": "DE"
+  },
+  {
+    "flag": "🇮🇹",
+    "name": "Inter Milan",
+    "country": "Itália",
+    "code": "IT"
+  },
+  {
+    "flag": "🇮🇹",
+    "name": "AC Milan",
+    "country": "Itália",
+    "code": "IT"
+  },
+  {
+    "flag": "🇮🇹",
+    "name": "Juventus",
+    "country": "Itália",
+    "code": "IT"
+  },
+  {
+    "flag": "🇮🇹",
+    "name": "Napoli",
+    "country": "Itália",
+    "code": "IT"
+  },
+  {
+    "flag": "🇫🇷",
+    "name": "Paris Saint-Germain",
+    "country": "França",
+    "code": "FR"
+  },
+  {
+    "flag": "🇫🇷",
+    "name": "Marseille",
+    "country": "França",
+    "code": "FR"
+  },
+  {
+    "flag": "🇫🇷",
+    "name": "Monaco",
+    "country": "França",
+    "code": "FR"
+  },
+  {
+    "flag": "🇳🇱",
+    "name": "Ajax",
+    "country": "Holanda",
+    "code": "NL"
+  },
+  {
+    "flag": "🇵🇹",
+    "name": "Benfica",
+    "country": "Portugal",
+    "code": "PT"
+  },
+  {
+    "flag": "🇵🇹",
+    "name": "Porto",
+    "country": "Portugal",
+    "code": "PT"
+  },
+  {
+    "flag": "🇵🇹",
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "code": "PT"
+  },
+  {
+    "flag": "🇹🇷",
+    "name": "Galatasaray",
+    "country": "Turquia",
+    "code": "TR"
+  },
+  {
+    "flag": "🇸🇦",
+    "name": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "code": "SA"
+  },
+  {
+    "flag": "🇯🇵",
+    "name": "Urawa Red Diamonds",
+    "country": "Japão",
+    "code": "JP"
+  },
+  {
+    "flag": "🇲🇽",
+    "name": "Club América",
+    "country": "México",
+    "code": "MX"
+  },
+  {
+    "flag": "🇲🇽",
+    "name": "Chivas",
+    "country": "México",
+    "code": "MX"
+  }
+]

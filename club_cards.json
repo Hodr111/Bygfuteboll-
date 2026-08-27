@@ -1,0 +1,4852 @@
+[
+  {
+    "id": "BR-01",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Jorginho",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-02",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Arrascaeta",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-03",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Nicolás de la Cruz",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-04",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Léo Pereira",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-05",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Danilo",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-06",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Alex Sandro",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-07",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Pedro",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-08",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Gerson",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-09",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Bruno Henrique",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-10",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Everton",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-11",
+    "club": "Flamengo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rossi",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Corinthians",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Corinthians",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Corinthians",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Corinthians",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Corinthians",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Palmeiras",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Palmeiras",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Palmeiras",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Palmeiras",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Palmeiras",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "São Paulo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "São Paulo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "São Paulo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "São Paulo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "São Paulo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Santos",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Santos",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Santos",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Santos",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Santos",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Vasco",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Vasco",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Vasco",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Vasco",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Vasco",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-01",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "John Victor",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-02",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Vitinho",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-03",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Alex Telles",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-04",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Cuiabano",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-05",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Jair Cunha",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-06",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Alexander Barboza",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-07",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Danilo Barbosa",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-08",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Marlon Freitas",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-09",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Santiago Rodríguez",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-10",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Jefferson Savarino",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-11",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Artur",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-12",
+    "club": "Botafogo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Igor Jesus",
+    "position": "CB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Fluminense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Fluminense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Fluminense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Fluminense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Fluminense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Grêmio",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Grêmio",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Grêmio",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Grêmio",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Grêmio",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Internacional",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Internacional",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Internacional",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Internacional",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Internacional",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Cruzeiro",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Cruzeiro",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Cruzeiro",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Cruzeiro",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Cruzeiro",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Atlético-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Atlético-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Atlético-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Atlético-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Atlético-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Bahia",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Bahia",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Bahia",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Bahia",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Bahia",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Vitória",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Vitória",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Vitória",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Vitória",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Vitória",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Athletico-PR",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Athletico-PR",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Athletico-PR",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Athletico-PR",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Athletico-PR",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Coritiba",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Coritiba",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Coritiba",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Coritiba",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Coritiba",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Red Bull Bragantino",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Red Bull Bragantino",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Red Bull Bragantino",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Red Bull Bragantino",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Red Bull Bragantino",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Chapecoense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Chapecoense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Chapecoense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Chapecoense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Chapecoense",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Remo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Remo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Remo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Remo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Remo",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Mirassol",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Mirassol",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Mirassol",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Mirassol",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Mirassol",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Ceará",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Ceará",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Ceará",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Ceará",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Ceará",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Fortaleza",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Fortaleza",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Fortaleza",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Fortaleza",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Fortaleza",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Sport",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Sport",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Sport",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Sport",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Sport",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Goiás",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Goiás",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Goiás",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Goiás",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Goiás",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "América-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "América-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "América-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "América-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "América-MG",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Atlético-GO",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Atlético-GO",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Atlético-GO",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Atlético-GO",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Atlético-GO",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Cuiabá",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Cuiabá",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Cuiabá",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Cuiabá",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Cuiabá",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Juventude",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Juventude",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Juventude",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Juventude",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Juventude",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Ponte Preta",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Ponte Preta",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Ponte Preta",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Ponte Preta",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Ponte Preta",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Guarani",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Guarani",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Guarani",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Guarani",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Guarani",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Paysandu",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Paysandu",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Paysandu",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Paysandu",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Paysandu",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "BR-F01",
+    "club": "Santa Cruz",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F02",
+    "club": "Santa Cruz",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "BR-F03",
+    "club": "Santa Cruz",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F04",
+    "club": "Santa Cruz",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "BR-F05",
+    "club": "Santa Cruz",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-01",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Franco Mastantuono",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-02",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Miguel Borja",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-03",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Marcos Acuña",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-04",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Germán Pezzella",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-05",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Enzo Pérez",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-06",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Manuel Lanzini",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-07",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Facundo Colidio",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-08",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Paulo Díaz",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-09",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Franco Armani",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-10",
+    "club": "River Plate",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Ignacio Fernández",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-01",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Edinson Cavani",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-02",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Miguel Merentiel",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-03",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Kevin Zenón",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-04",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Alan Velasco",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-05",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Marcos Rojo",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-06",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Luis Advíncula",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-07",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Exequiel Zeballos",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-08",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Ander Herrera",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-09",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Cristian Lema",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-10",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Agustín Marchesín",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-F01",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F02",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F03",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F04",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F05",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-F01",
+    "club": "Independiente",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F02",
+    "club": "Independiente",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F03",
+    "club": "Independiente",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F04",
+    "club": "Independiente",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F05",
+    "club": "Independiente",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "AR-F01",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F02",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "AR-F03",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F04",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "AR-F05",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "UY-F01",
+    "club": "Peñarol",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "UY-F02",
+    "club": "Peñarol",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "UY-F03",
+    "club": "Peñarol",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "UY-F04",
+    "club": "Peñarol",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "UY-F05",
+    "club": "Peñarol",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "UY-F01",
+    "club": "Nacional",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "UY-F02",
+    "club": "Nacional",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "UY-F03",
+    "club": "Nacional",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "UY-F04",
+    "club": "Nacional",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "UY-F05",
+    "club": "Nacional",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "CO-F01",
+    "club": "Atlético Nacional",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "CO-F02",
+    "club": "Atlético Nacional",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "CO-F03",
+    "club": "Atlético Nacional",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "CO-F04",
+    "club": "Atlético Nacional",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "CO-F05",
+    "club": "Atlético Nacional",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "CO-F01",
+    "club": "Millonarios",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "CO-F02",
+    "club": "Millonarios",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "CO-F03",
+    "club": "Millonarios",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "CO-F04",
+    "club": "Millonarios",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "CO-F05",
+    "club": "Millonarios",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "CL-F01",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "CL-F02",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "CL-F03",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "CL-F04",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "CL-F05",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EC-F01",
+    "club": "LDU Quito",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "EC-F02",
+    "club": "LDU Quito",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "EC-F03",
+    "club": "LDU Quito",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "EC-F04",
+    "club": "LDU Quito",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "EC-F05",
+    "club": "LDU Quito",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PY-F01",
+    "club": "Olimpia",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "PY-F02",
+    "club": "Olimpia",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "PY-F03",
+    "club": "Olimpia",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "PY-F04",
+    "club": "Olimpia",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "PY-F05",
+    "club": "Olimpia",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PE-F01",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "PE-F02",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "PE-F03",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "PE-F04",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "PE-F05",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "US-F01",
+    "club": "Inter Miami",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "US-F02",
+    "club": "Inter Miami",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "US-F03",
+    "club": "Inter Miami",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "US-F04",
+    "club": "Inter Miami",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "US-F05",
+    "club": "Inter Miami",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "US-F01",
+    "club": "LAFC",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "US-F02",
+    "club": "LAFC",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "US-F03",
+    "club": "LAFC",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "US-F04",
+    "club": "LAFC",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "US-F05",
+    "club": "LAFC",
+    "country": "EUA",
+    "flag": "🇺🇸",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-01",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Courtois",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-02",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Trent Alexander-Arnold",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-03",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Éder Militão",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-04",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Antonio Rüdiger",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-05",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Fran García",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-06",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Bellingham",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-07",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Camavinga",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-08",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Valverde",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-09",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Brahim Díaz",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-10",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Vinícius Jr.",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-11",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Rodrygo",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-12",
+    "club": "Real Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Mbappé",
+    "position": "CB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-01",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Ter Stegen",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-02",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Pau Cubarsí",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-03",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Frenkie de Jong",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-04",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Pedri",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-05",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Gavi",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-06",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Dani Olmo",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-07",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Lamine Yamal",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-08",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Raphinha",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-09",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Robert Lewandowski",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-10",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Ferran Torres",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-11",
+    "club": "Barcelona",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Eric García",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-F01",
+    "club": "Atlético de Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-F02",
+    "club": "Atlético de Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-F03",
+    "club": "Atlético de Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-F04",
+    "club": "Atlético de Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-F05",
+    "club": "Atlético de Madrid",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ES-F01",
+    "club": "Athletic Club",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-F02",
+    "club": "Athletic Club",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "ES-F03",
+    "club": "Athletic Club",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-F04",
+    "club": "Athletic Club",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "ES-F05",
+    "club": "Athletic Club",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-01",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Ederson",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-02",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Rúben Dias",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-03",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Rodri",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-04",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Bernardo Silva",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-05",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Kevin De Bruyne",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-06",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Phil Foden",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-07",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Erling Haaland",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-08",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Jérémy Doku",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-09",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Savinho",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-10",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Omar Marmoush",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-11",
+    "club": "Manchester City",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Nathan Aké",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-01",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Alisson",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-02",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Andrew Robertson",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-03",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Virgil van Dijk",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-04",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Ibrahima Konaté",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-05",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Jeremie Frimpong",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-06",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Alexis Mac Allister",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-07",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Dominik Szoboszlai",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-08",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Florian Wirtz",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-09",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Luis Díaz",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-10",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Mohamed Salah",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-11",
+    "club": "Liverpool",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Cody Gakpo",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-01",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Bruno Fernandes",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-02",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Casemiro",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-03",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Mason Mount",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-04",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Kobbie Mainoo",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-05",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Matthijs de Ligt",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-06",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Lisandro Martínez",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-07",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Diogo Dalot",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-08",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Amad Diallo",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-09",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Rasmus Højlund",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-10",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Benjamin Šeško",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-11",
+    "club": "Manchester United",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Bryan Mbeumo",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-01",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Bukayo Saka",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-02",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Martin Ødegaard",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-03",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Declan Rice",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-04",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "William Saliba",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-05",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Gabriel Magalhães",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-06",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Ben White",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-07",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Kai Havertz",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-08",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Gabriel Martinelli",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-09",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Gabriel Jesus",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-10",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Leandro Trossard",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-11",
+    "club": "Arsenal",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "David Raya",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-F01",
+    "club": "Chelsea",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-F02",
+    "club": "Chelsea",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-F03",
+    "club": "Chelsea",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-F04",
+    "club": "Chelsea",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-F05",
+    "club": "Chelsea",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "EN-F01",
+    "club": "Tottenham",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-F02",
+    "club": "Tottenham",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "EN-F03",
+    "club": "Tottenham",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-F04",
+    "club": "Tottenham",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "EN-F05",
+    "club": "Tottenham",
+    "country": "Inglaterra",
+    "flag": "🇬🇧",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "DE-01",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Harry Kane",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-02",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Jamal Musiala",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-03",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Joshua Kimmich",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-04",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Michael Olise",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-05",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Leroy Sané",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-06",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Serge Gnabry",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-07",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Alphonso Davies",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-08",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Dayot Upamecano",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-09",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Kim Min-jae",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "DE-10",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Jonathan Tah",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "DE-11",
+    "club": "Bayern Munich",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Manuel Neuer",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-F01",
+    "club": "Borussia Dortmund",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-F02",
+    "club": "Borussia Dortmund",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-F03",
+    "club": "Borussia Dortmund",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-F04",
+    "club": "Borussia Dortmund",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-F05",
+    "club": "Borussia Dortmund",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "DE-F01",
+    "club": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-F02",
+    "club": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "DE-F03",
+    "club": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-F04",
+    "club": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "DE-F05",
+    "club": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-01",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Lautaro Martínez",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-02",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Marcus Thuram",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-03",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Nicolò Barella",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-04",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Hakan Çalhanoğlu",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-05",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Henrikh Mkhitaryan",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-06",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Federico Dimarco",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-07",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Alessandro Bastoni",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-08",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Benjamin Pavard",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-09",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Denzel Dumfries",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-10",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Yann Sommer",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-11",
+    "club": "Inter Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Carlos Augusto",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-01",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Rafael Leão",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-02",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Christian Pulisic",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-03",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Luka Modrić",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-04",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Ruben Loftus-Cheek",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-05",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Tijjani Reijnders",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-06",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Youssouf Fofana",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-07",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Theo Hernández",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-08",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Fikayo Tomori",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-09",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Matteo Gabbia",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-10",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Mike Maignan",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-11",
+    "club": "AC Milan",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Santiago Giménez",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-01",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Kenan Yıldız",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-02",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Dušan Vlahović",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-03",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Teun Koopmeiners",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-04",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Manuel Locatelli",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-05",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Khéphren Thuram",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-06",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Andrea Cambiaso",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-07",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Gleison Bremer",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-08",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Pierre Kalulu",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-09",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Federico Gatti",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-10",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Jonathan David",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "IT-11",
+    "club": "Juventus",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Michele Di Gregorio",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-F01",
+    "club": "Napoli",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-F02",
+    "club": "Napoli",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "IT-F03",
+    "club": "Napoli",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-F04",
+    "club": "Napoli",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "IT-F05",
+    "club": "Napoli",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "FR-01",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Ousmane Dembélé",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-02",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Khvicha Kvaratskhelia",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-03",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Achraf Hakimi",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-04",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Vitinha",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-05",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "João Neves",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-06",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Marquinhos",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-07",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Nuno Mendes",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-08",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Gonçalo Ramos",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-09",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Désiré Doué",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "FR-10",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Bradley Barcola",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "FR-11",
+    "club": "Paris Saint-Germain",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Lucas Hernández",
+    "position": "CAM",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-F01",
+    "club": "Marseille",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-F02",
+    "club": "Marseille",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-F03",
+    "club": "Marseille",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-F04",
+    "club": "Marseille",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-F05",
+    "club": "Marseille",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "FR-F01",
+    "club": "Monaco",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-F02",
+    "club": "Monaco",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "FR-F03",
+    "club": "Monaco",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-F04",
+    "club": "Monaco",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "FR-F05",
+    "club": "Monaco",
+    "country": "França",
+    "flag": "🇫🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "NL-F01",
+    "club": "Ajax",
+    "country": "Holanda",
+    "flag": "🇳🇱",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "NL-F02",
+    "club": "Ajax",
+    "country": "Holanda",
+    "flag": "🇳🇱",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "NL-F03",
+    "club": "Ajax",
+    "country": "Holanda",
+    "flag": "🇳🇱",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "NL-F04",
+    "club": "Ajax",
+    "country": "Holanda",
+    "flag": "🇳🇱",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "NL-F05",
+    "club": "Ajax",
+    "country": "Holanda",
+    "flag": "🇳🇱",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-01",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Ángel Di María",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-02",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Vangelis Pavlidis",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-03",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "António Silva",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-04",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Nicolás Otamendi",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-05",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Orkun Kökçü",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-06",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Fredrik Aursnes",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-07",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Kerem Aktürkoğlu",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-08",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Florentino Luís",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-09",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Alexander Bah",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-10",
+    "club": "Benfica",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Trubin",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-01",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Diogo Costa",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-02",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Pepe",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-03",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Otávio",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-04",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Alan Varela",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-05",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Pepê",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-06",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Galeno",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-07",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Francisco Moura",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-08",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Samu Aghehowa",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-09",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Fábio Vieira",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-10",
+    "club": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Eustáquio",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-01",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Viktor Gyökeres",
+    "position": "GK",
+    "ovr": 88,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-02",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Pedro Gonçalves",
+    "position": "RB",
+    "ovr": 89,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-03",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Trincão",
+    "position": "CB",
+    "ovr": 90,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-04",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Morten Hjulmand",
+    "position": "LB",
+    "ovr": 91,
+    "rarity": "rare"
+  },
+  {
+    "id": "PT-05",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Gonçalo Inácio",
+    "position": "CM",
+    "ovr": 92,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-06",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Ousmane Diomande",
+    "position": "CM",
+    "ovr": 93,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-07",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Nuno Santos",
+    "position": "RW",
+    "ovr": 94,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-08",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Francisco Trincão",
+    "position": "LW",
+    "ovr": 95,
+    "rarity": "epic"
+  },
+  {
+    "id": "PT-09",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Geny Catamo",
+    "position": "ST",
+    "ovr": 96,
+    "rarity": "legendary"
+  },
+  {
+    "id": "PT-10",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "player": "Rui Silva",
+    "position": "ST",
+    "ovr": 97,
+    "rarity": "legendary"
+  },
+  {
+    "id": "TR-F01",
+    "club": "Galatasaray",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "TR-F02",
+    "club": "Galatasaray",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "TR-F03",
+    "club": "Galatasaray",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "TR-F04",
+    "club": "Galatasaray",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "TR-F05",
+    "club": "Galatasaray",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "SA-F01",
+    "club": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "SA-F02",
+    "club": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "SA-F03",
+    "club": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "SA-F04",
+    "club": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "SA-F05",
+    "club": "Al-Hilal",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "JP-F01",
+    "club": "Urawa Red Diamonds",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "JP-F02",
+    "club": "Urawa Red Diamonds",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "JP-F03",
+    "club": "Urawa Red Diamonds",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "JP-F04",
+    "club": "Urawa Red Diamonds",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "JP-F05",
+    "club": "Urawa Red Diamonds",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "MX-F01",
+    "club": "Club América",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "MX-F02",
+    "club": "Club América",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "MX-F03",
+    "club": "Club América",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "MX-F04",
+    "club": "Club América",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "MX-F05",
+    "club": "Club América",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  },
+  {
+    "id": "MX-F01",
+    "club": "Chivas",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "FC Star",
+    "position": "ST",
+    "ovr": 82,
+    "rarity": "rare"
+  },
+  {
+    "id": "MX-F02",
+    "club": "Chivas",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Club Captain",
+    "position": "CM",
+    "ovr": 84,
+    "rarity": "rare"
+  },
+  {
+    "id": "MX-F03",
+    "club": "Chivas",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Rising Star",
+    "position": "RW",
+    "ovr": 86,
+    "rarity": "epic"
+  },
+  {
+    "id": "MX-F04",
+    "club": "Chivas",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Defensive Wall",
+    "position": "CB",
+    "ovr": 88,
+    "rarity": "epic"
+  },
+  {
+    "id": "MX-F05",
+    "club": "Chivas",
+    "country": "México",
+    "flag": "🇲🇽",
+    "player": "Keeper Pro",
+    "position": "GK",
+    "ovr": 90,
+    "rarity": "legendary"
+  }
+]

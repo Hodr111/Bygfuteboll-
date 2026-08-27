@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="theme-color" content="#070b12"><title>Pocket Football FC — MAX</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body><button class="fullGameBtn" onclick="pfc18Hub()">🔥 FULL GAME</button><button class="storeBtn" onclick="pfcFinalShop()">🛒 LOJA</button><button class="adminBtn" onclick="pfcFinalAdmin()">🛡️ ADM</button><div id="pfc17LoginCard" class="pfc17LoginCard"><div><small>POCKET FOOTBALL FC</small><b>CONTA ONLINE</b><span>Entre com Google e mantenha seu ID, cartas e progresso.</span><button onclick="pfc17LoginDemo()">🔐 ENTRAR COM GOOGLE</button></div></div><button class="ultimateHubBtn" onclick="pfc16Dashboard()">🔥 ULTIMATE HUB</button><button class="globalBtn" onclick="pfc16OpenTop()">🌎 TOP GLOBAL</button><button class="matchFloating" onclick="pfc15OpenMatch()">⚽ JOGAR PARTIDA</button><button class="cinPackFloating" onclick="pfcOpenCinematicPack()">🎬 PACK CINEMÁTICO</button><button class="packFloating" onclick="pfcOpen3DPack(5)">✨ PACK 3D</button><button class="collectionFloating" onclick="pfcOpenPremiumCollection()">🃏 CARTAS</button><button class="clubsFloating" onclick="pfcOpenClubs()">🌎 TIMES</button>
+<div id="app">
+<header class="top">
+  <div class="logo">⚽ <b>POCKET</b> FOOTBALL <em>FC</em><small>MAX</small></div>
+  <div id="profileChip"></div><div class="wallet"><span>🪙 <b id="gold">0</b></span><span>💎 <b id="gems">0</b></span><span>🏆 <b id="wins">0</b></span><span>⚡ <b id="ovr">84</b></span></div>
+</header>
+
+<main>
+<section id="home" class="page active">
+ <div class="hero">
+  <div class="heroText"><small>SEASON 01 • WORLD TOUR</small><h1>Jogue.<br><strong>Evolua.</strong><br>Domine.</h1><p>Futebol 3D mobile, cartas OVR, química, temporadas, estádio, ranking e partidas competitivas.</p>
+  <div><button class="primary" onclick="startMatch('ranked')">▶ PARTIDA RANQUEADA</button><button class="secondary" onclick="startMatch('friendly')">AMISTOSO</button></div></div>
+  <div class="heroVisual"><div class="orb"></div><div class="heroPlayer">94<small>CF</small><b>STRIKER</b><i>LEGENDARY</i></div></div>
+ </div>
+ <div class="modeGrid"><button onclick="startMatch('cup')"><b>🏆 COPA</b><small>Eliminação e prêmio alto</small></button><button onclick="show('squad')"><b>🃏 ULTIMATE SQUAD</b><small>Monte seu XI</small></button><button onclick="show('packs')"><b>🎁 LOJA</b><small>Packs e mercado</small></button><button onclick="show('events')"><b>🔥 EVENTOS</b><small>Desafios diários</small></button></div>
+ <div class="sectionTitle"><h2>Temporada</h2><span id="seasonProgress">0%</span></div>
+ <div class="missions" id="missions"></div>
+</section>
+
+<section id="squad" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>ULTIMATE SQUAD</small><h2>Elenco</h2></div><div class="ovrBox"><small>OVR</small><b id="squadOvr">84</b></div></div>
+ <div class="tabs" id="formationTabs"><button class="active" onclick="formation('4-3-3',this)">4-3-3</button><button onclick="formation('4-2-3-1',this)">4-2-3-1</button><button onclick="formation('3-5-2',this)">3-5-2</button></div>
+ <div class="pitch" id="pitch"></div>
+ <div class="sectionTitle"><h2>Química</h2><span id="chemistry">78/100</span></div>
+ <div class="chemBar"><i id="chemFill"></i></div>
+ <div class="sectionTitle"><h2>Banco</h2><span>arraste futuramente • toque para detalhes</span></div>
+ <div class="cardsRow" id="bench"></div>
+</section>
+
+<section id="packs" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>TRANSFER MARKET</small><h2>Loja & Packs</h2></div></div>
+ <div class="packGrid">
+  <article class="pack legendaryPack"><div class="packIcon">✦</div><div><small>LIMITED</small><h2>ICON PACK</h2><p>5 cartas • alta chance de Épica/Lendária</p><button class="primary" onclick="openPack(1200)">1.200 🪙</button></div></article>
+  <article class="pack elitePack"><div class="packIcon">◆</div><div><small>PREMIUM</small><h2>ELITE PACK</h2><p>3 cartas • chance de Lendária</p><button class="primary" onclick="openPack(650)">650 🪙</button></div></article>
+ </div>
+ <div class="sectionTitle"><h2>Mercado</h2><span>cartas em destaque</span></div><div class="cardGrid" id="market"></div>
+</section>
+
+<section id="events" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>LIVE EVENTS</small><h2>Eventos</h2></div></div>
+ <div class="eventGrid">
+  <article><span>🔥</span><small>DESAFIO</small><h2>GOL DE PRIMEIRA</h2><p>Marque 2 gols em uma partida.</p><b>+400 🪙 • +20 💎</b><button onclick="startMatch('challenge')">JOGAR</button></article>
+  <article><span>🥅</span><small>PÊNALTIS</small><h2>PRESSÃO MÁXIMA</h2><p>Converta 3 cobranças.</p><b>+650 🪙 • +30 💎</b><button onclick="startMatch('penalty')">JOGAR</button></article>
+  <article><span>⚡</span><small>RANKED</small><h2>SUBA DE DIVISÃO</h2><p>Vitórias dão pontos de ranking.</p><b>+XP • +550 🪙</b><button onclick="startMatch('ranked')">JOGAR</button></article>
+ </div>
+</section>
+
+<section id="rank" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>WORLD RANK</small><h2>Ranking</h2></div></div>
+ <div class="rankTabs"><button class="active" onclick="setRank('rating',this)">OVR</button><button onclick="setRank('gold',this)">Gold</button><button onclick="setRank('wins',this)">Vitórias</button><button onclick="setRank('pens',this)">Pênaltis</button></div>
+ <div class="rankList" id="rankList"></div>
+</section>
+
+<section id="club" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>CLUB CENTER</small><h2>Meu Clube</h2></div></div>
+ <div class="clubHero"><div class="stadiumArt"><div class="fieldArt"></div><div class="stands"></div></div><div><small>POCKET ARENA</small><h2>Nível <span id="stadiumLevel">3</span></h2><p>42.000 lugares • iluminação premium • torcida dinâmica</p><button class="primary" onclick="upgradeStadium()">MELHORAR • 1.500 🪙</button></div></div>
+ <div class="clubStats"><div><small>ATAQUE</small><b>91</b></div><div><small>MEIO</small><b>88</b></div><div><small>DEFESA</small><b>84</b></div><div><small>QUÍMICA</small><b id="clubChem">78</b></div></div>
+</section>
+
+<section id="account" class="page">
+ <div class="pageHead"><button onclick="show('home')">‹</button><div><small>PLAYER IDENTITY</small><h2>Minha Conta</h2></div><span class="accountState" id="accountLoginState">MODO LOCAL</span></div>
+ <div class="accountHero">
+  <div class="accountAvatar" id="accountAvatar"></div>
+  <div class="accountMain"><small>JOGADOR</small><h2 id="accountName">Jogador</h2><p id="accountEmail">Faça login para sincronizar sua conta</p><div class="idPill">ID PRÓPRIO <b id="publicId">PF-000000</b><button onclick="navigator.clipboard&&navigator.clipboard.writeText(document.getElementById('publicId').textContent);msg('📋 ID COPIADO')">COPIAR</button></div></div>
+  <div class="accountLogin"><button class="googleBtn" id="googleBtn" onclick="openAuth()">ENTRAR / RECUPERAR</button><button class="secondary" id="logoutBtn" onclick="logoutGoogle()" style="display:none">SAIR DA CONTA</button></div>
+ </div>
+ <div class="accountStats">
+  <div><small>PARTIDAS</small><b id="statMatches">0</b></div><div><small>VITÓRIAS</small><b id="statWins">0</b></div><div><small>GOLS</small><b id="statGoals">0</b></div><div><small>PÊNALTIS</small><b id="statPens">0</b></div><div><small>DERROTAS</small><b id="statLosses">0</b></div><div><small>OVR</small><b id="statOvr">84</b></div><div><small>GOLD</small><b id="statGold">2.500</b></div>
+ </div>
+ <div class="accountGrid">
+  <article class="accountPanel"><div class="sectionTitle"><h2>Identidade do clube</h2><span>salva no perfil</span></div><label>Nome do clube<input id="clubName" maxlength="22" placeholder="Pocket FC"></label><label>Uniforme principal<select id="kitSelect"><option value="midnight">Midnight</option><option value="aurora">Aurora</option><option value="royal">Royal</option><option value="neon">Neon</option></select></label><button class="primary" onclick="saveAccountSettings()">SALVAR PERFIL</button></article>
+  <article class="accountPanel kitPanel"><div class="sectionTitle"><h2>Uniforme</h2><span id="kitLabel">MIDNIGHT</span></div><div id="kitPreview" class="kitPreview kit-midnight"><i></i><b>PF</b></div><p>Base pronta para trocar cores, patrocinador, escudo, número e kits casa/fora.</p></article>
+ </div>
+ <div class="sectionTitle"><h2>Meus jogadores</h2><span>cartas do elenco</span></div><div class="cardGrid accountCards">${players.slice(0,6).map(p=>card(p)).join('')}</div>
+ <div class="accountNote">🔐 <b>Conta online:</b> Google Auth + PostgreSQL. O ID público é derivado do UID do Google e permanece ligado à conta. Sem Firebase, o protótipo usa um ID local persistente.</div>
+</section>
+
+<section id="game" class="game">
+ <canvas id="canvas"></canvas>
+ <div class="gameTop"><div class="scoreBox"><b>POCKET FC</b><strong id="score">0 — 0</strong><b>RIVAL</b></div><div class="timer" id="timer">00:00</div><button onclick="pauseGame()">Ⅱ</button></div>
+ <div class="matchInfo"><span id="matchMode">RANQUEADA</span><small id="possession">POSSE 50%</small></div>
+ <div class="minimap" id="minimap"><i></i></div>
+ <div class="power" id="power"><i></i></div>
+ <div class="controls">
+  <div class="joystick" id="joystick"><i></i></div>
+  <div class="gameButtons">
+   <button onclick="pass()">PASSE</button><button onclick="throughPass()">PASSE<br>FUNDO</button>
+   <button class="bigShoot" onpointerdown="chargeShot()" onpointerup="releaseShot()">CHUTAR</button>
+   <button onclick="tackle()">DESARME</button><button onclick="sprint()">SPRINT</button><button onclick="skill()">DRIBLE</button>
+  </div>
+ </div>
+ <div id="gameMessage"></div>
+ <div id="pausePanel" class="pausePanel hidden"><h2>PARTIDA PAUSADA</h2><button class="primary" onclick="pauseGame()">CONTINUAR</button><button class="secondary" onclick="leaveGame()">SAIR</button></div>
+</section>
+</main>
+
+
+<div id="authModal" class="authModal hidden">
+  <div class="authPanel">
+    <button class="authClose" onclick="closeAuth()">×</button>
+    <div class="authBrand">⚽ <b>POCKET FOOTBALL FC</b><small>CONTA ONLINE</small></div>
+    <h2>Entre e não perca seu progresso</h2>
+    <p class="authHint">Use Google ou receba um código de 6 dígitos no seu e-mail.</p>
+    <button class="googleBtn authGoogle" onclick="loginGoogle()">G  ENTRAR COM GOOGLE</button>
+    <div class="authOr"><span>OU</span></div>
+    <label class="authLabel">E-mail de recuperação<input id="authEmail" type="email" autocomplete="email" placeholder="seuemail@gmail.com"></label>
+    <button class="secondary authEmailBtn" onclick="sendEmailCode()">ENVIAR CÓDIGO</button>
+    <div id="otpBox" class="otpBox hidden"><label class="authLabel">Código de 6 dígitos<input id="authOtp" inputmode="numeric" maxlength="6" autocomplete="one-time-code" placeholder="000000"></label><button class="primary" onclick="verifyEmailCode()">VERIFICAR CÓDIGO</button></div>
+    <small class="authSecurity">🔒 Sem upload de foto. Avatar só com opções oficiais do jogo.</small>
+  </div>
+</div>
+
+<nav id="nav"><button class="active" onclick="show('home')">⌂<small>Início</small></button><button onclick="show('squad')">♟<small>Elenco</small></button><button onclick="pfcOpenCollection()">🃏<small>Cartas</small></button><button onclick="show('packs')">▣<small>Loja</small></button><button onclick="show('events')">🔥<small>Eventos</small></button><button onclick="show('rank')">♛<small>Rank</small></button><button onclick="show('account')">◉<small>Conta</small></button></nav>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="supabase-config.js"></script>
+<script src="app.js"></script>
+</body></html>
